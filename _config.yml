@@ -63,7 +63,7 @@ author:
   bio    : "Software developer in developement"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/diegocarmar/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -77,6 +77,9 @@ author:
 
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/diegocarmar/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -106,6 +109,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: true
 
 category_archive:
   type: liquid
