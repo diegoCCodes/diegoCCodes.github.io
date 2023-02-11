@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am a creative, flexible, proactive and team-oriented person. I have a degree in philosophy
+from the University of Valladolid and a technical degree in multiplatform application
+development from Ilerna. I did my internship at Entelgy Digital where I was in charge of full
+stack web development tasks. Then I worked at Ryme Worldwide developing fullstack
+software for vehicle inspection machinery worldwide with C# and .NET for Windows OS.
+Currently I am working at Onenak Consulting developing ERP software tools with Infor
+technology. In addition, I manage the corresponding relational databases in Microsoft SQL
+Server environments that make up a complete environment for managing the resources of
+the companies that work with us.
